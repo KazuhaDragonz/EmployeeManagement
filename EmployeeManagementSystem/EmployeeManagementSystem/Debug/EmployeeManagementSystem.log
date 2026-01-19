@@ -1,0 +1,16 @@
+﻿  EmployeeManagementSystem.cpp
+C:\Users\Azri.Hazmi\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem.cpp(103,39): error C2601: 'Employee_management::insert': local function definitions are illegal
+C:\Users\Azri.Hazmi\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem.cpp(35): message : this line contains a '{' which has not yet been matched
+C:\Users\Azri.Hazmi\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem.cpp(124,31): error C2601: 'Employee_management::display': local function definitions are illegal
+C:\Users\Azri.Hazmi\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem.cpp(35): message : this line contains a '{' which has not yet been matched
+C:\Users\Azri.Hazmi\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem.cpp(161,31): error C2601: 'Employee_management::modify': local function definitions are illegal
+C:\Users\Azri.Hazmi\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem.cpp(35): message : this line contains a '{' which has not yet been matched
+C:\Users\Azri.Hazmi\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem.cpp(221,31): error C2601: 'Employee_management::search': local function definitions are illegal
+C:\Users\Azri.Hazmi\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem.cpp(35): message : this line contains a '{' which has not yet been matched
+C:\Users\Azri.Hazmi\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem.cpp(269,39): error C2601: 'Employee_management::deleted': local function definitions are illegal
+C:\Users\Azri.Hazmi\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem.cpp(35): message : this line contains a '{' which has not yet been matched
+C:\Users\Azri.Hazmi\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem.cpp(325,39): error C2601: 'Employee_management::waitForEnter': local function definitions are illegal
+C:\Users\Azri.Hazmi\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem.cpp(35): message : this line contains a '{' which has not yet been matched
+C:\Users\Azri.Hazmi\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem.cpp(331,17): error C2601: 'password_user': local function definitions are illegal
+C:\Users\Azri.Hazmi\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem.cpp(35): message : this line contains a '{' which has not yet been matched
+C:\Users\Azri.Hazmi\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem.cpp(332): fatal error C1075: '{': no matching token found
